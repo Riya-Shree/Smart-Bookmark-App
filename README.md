@@ -1,7 +1,6 @@
 # Markd — Smart Bookmark Manager
 
-> **Live URL:** https://your-app.vercel.app  
-> **Repo:** https://github.com/your-username/smart-bookmark-app
+> **Live URL:** https://vercel.com/riya-shrees-projects/bookmarks-app 
 
 A private, real-time bookmark manager built with **Next.js 15 App Router**, **Supabase** (Auth + Postgres + Realtime), and **Tailwind CSS**.
 
